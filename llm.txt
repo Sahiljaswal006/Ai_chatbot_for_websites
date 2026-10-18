@@ -1,0 +1,128 @@
+# TechAgastyaan
+
+## About
+We are a tech company based in Kharar providing IT services, web development, and software solutions.
+
+## Services
+- Web Development
+- Mobile App Development
+- AI & ML Solutions
+- IT Consulting
+
+## Contact
+Email: agastyaantechnology@gmail.com
+Phone: +91 6230466249
+Location: Sco No 23, 2nd Floor, Opposite Nature Huts-3 Gate, Mind Tree School Road, Khanpur, Kharar, Mohali, Punjab, 140301
+
+## FAQs
+Q: What technologies do you work with?
+A: We work with Python, React, Node.js, and more.
+
+## Instagram 
+ID : https://www.instagram.com/agastyaantechnology?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+
+Q: who is the developer of this Chatbot
+A: Sahil jaswal
+
+Q: How can I get a quote?
+A: Contact us via email or phone above.
+
+Q: who is the founder of this company?
+A: Vipin Thakur
+
+Q: who is the manager of this company?
+A: Nancy jaswal
+
+Q: courses?
+A: 1. Web Development
+2. Mobile App Development
+3. AI & ML Solutions
+4. IT Consulting
+
+We work with a range of technologies, including Python, React, Node.js, and more. If you'd like to learn more about our services or get a quote, please feel free to contact us via email or phone.
+
+Q: nodejs
+A: Node.js is a JavaScript runtime built on Google's V8 engine that allows you to run JavaScript outside the browser, commonly for backend development.
+
+Q: Python
+A: Python is a high-level, easy-to-read programming language widely used for:
+
+>Web development
+>Automation & scripting
+>Data science & AI
+>Machine learning
+>APIs & backend systems
+>Cybersecurity tools
+>Game development.
+
+Q: AI and ML
+A: AI (Artificial Intelligence) is technology that enables machines to mimic human intelligence like thinking, learning, and decision-making.
+ML (Machine Learning) is a part of AI where computers learn patterns from data and improve automatically without explicit programming.
+
+Example:
+
+AI → Chatbots, self-driving cars
+ML → Spam detection, recommendation systems
+
+Python libraries commonly used: TensorFlow, PyTorch, and Scikit-learn.
+
+Q: mobile development
+A: Mobile development is the process of creating applications for smartphones and tablets such as Android and iPhone devices.
+
+Types:
+
+>Android development → Java, Kotlin
+>iOS development → Swift
+>Cross-platform development → Flutter, React Native
+
+Mobile apps are used for social media, banking, games, shopping, and many other services.
+
+Popular tools:
+
+>Android Studio
+>Xcode
+Q: web development
+A: Web development is the process of creating websites and web applications that run in a browser.
+
+Types:
+
+Frontend development → Designs the user interface using HTML, CSS, and JavaScript
+Backend development → Handles server, database, and logic using languages like Python, PHP, Java, or Node.js
+Full-stack development → Works on both frontend and backend
+
+Popular technologies:
+
+>React
+>Node.js
+>Django
+>MongoDB
+
+Examples of web applications:
+
+>Online shopping sites
+>Social media platforms
+>Banking websites
+>Blogs and portfolios
+
+Q: it Consulting
+A: IT consulting is a professional service where experts help businesses use technology effectively to improve performance, security, and productivity.
+
+IT consultants analyze a company’s needs and provide solutions related to:
+
+>Software development
+>Cloud computing
+>Cybersecurity
+>Network management
+>Database systems
+>AI and automation
+
+Services include:
+
+>Technology planning
+>System upgrades
+>IT support
+>Digital transformation
+>Risk and security management
+
+Major companies in IT consulting include Accenture, Infosys, and Tata Consultancy Services.
+
